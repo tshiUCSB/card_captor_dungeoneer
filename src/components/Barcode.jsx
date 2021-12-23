@@ -23,7 +23,6 @@ export default function Barcode(props) {
             console.log("INVALID card idx for barcode");
         }
 
-        console.log(`a${i - 1}0${encode_idx}0000`);
         return `a${i - 1}0${encode_idx}0000`;
     }
 

@@ -44,6 +44,7 @@ export default function SideScrollSelect(props) {
 							w="100%"
 							h="100%"
 							bg={`${category}.300`}
+							color="#ffffff"
 							transition=".3s ease-out"
 							// transform={`scale(${1 - .1 * calc_dist_from_focus(scroll_pos, idx)})`}
 							opacity={`${1 - .4 * calc_dist_from_focus(scroll_pos, idx)}`}
