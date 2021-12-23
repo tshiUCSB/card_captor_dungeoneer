@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/card_captor_dungeoneer/static/js/main.b217160b.js",
+    "main.js": "/card_captor_dungeoneer/static/js/main.685a9856.js",
     "static/js/377.dbf7abb3.chunk.js": "/card_captor_dungeoneer/static/js/377.dbf7abb3.chunk.js",
     "static/media/bg_img_dim.png": "/card_captor_dungeoneer/static/media/bg_img_dim.f960f3af5127e4820bb7.png",
     "static/media/logo.svg": "/card_captor_dungeoneer/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
     "index.html": "/card_captor_dungeoneer/index.html",
-    "main.b217160b.js.map": "/card_captor_dungeoneer/static/js/main.b217160b.js.map",
+    "main.685a9856.js.map": "/card_captor_dungeoneer/static/js/main.685a9856.js.map",
     "377.dbf7abb3.chunk.js.map": "/card_captor_dungeoneer/static/js/377.dbf7abb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b217160b.js"
+    "static/js/main.685a9856.js"
   ]
 }
